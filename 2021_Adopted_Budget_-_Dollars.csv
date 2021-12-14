@@ -1,0 +1,604 @@
+DeptCode,BCL Name,ProgramName,2019 Actuals,2020 Adopted,2021 Adopted
+ARTS,Arts and Cultural Programs,Activations Equity and Youth Development,2155844,2096435,1942668
+ARTS,Arts and Cultural Programs,Communication Outreach and Events,435577,541814,613465
+ARTS,Arts and Cultural Programs,Cultural Facilities Operations,908840,978236,987722
+ARTS,Arts and Cultural Programs,Funding Programs & Partnership,3651217,3566894,3064423
+ARTS,Cultural Space,Cultural Space,941080,1428827,808850
+ARTS,Leadership and Administration,Citywide Indirect Costs,794925,951890,981439
+ARTS,Leadership and Administration,Departmental Indirect Costs,2049831,2075284,1881053
+ARTS,Leadership and Administration,Pooled Benefits and PTO,1172645,1204125,1223742
+ARTS,Public Art,Artwork Conservation,168087,196960,199498
+ARTS,Public Art,Public Art,2154013,2605586,2712515
+AUD,Office of the City Auditor,Office of the City Auditor,3195504,2579778,2520212
+CBO,City Budget Office,City Budget Office,7203501,7283554,7145311
+CEN,Building and Campus Improvements,Armory Rehabilitation,789441,1100000,533000
+CEN,Building and Campus Improvements,Campuswide Improvements and Re,1966940,1505000,1780000
+CEN,Building and Campus Improvements,Facility Infrastructure Renova,151351,3445000,2141268
+CEN,Building and Campus Improvements,Parking Repairs & Improvements,1079353,2400000,0
+CEN,Building and Campus Improvements,Public Gathering Space Improve,1260734,305000,529000
+CEN,Building and Campus Improvements,Utility Infrstr MP and Repairs,497790,1166105,1143000
+CEN,Campus,Access,1293948,1335314,1383950
+CEN,Campus,Campus Grounds,12967585,15618940,15487514
+CEN,Campus,Commercial Events,2239125,2085328,2143533
+CEN,Campus,Community Programs,2958429,2606770,2352929
+CEN,Campus,Cultural Facilities,386254,301153,307541
+CEN,Campus,Festivals,851821,1396872,1437040
+CEN,KeyArena,KeyArena,0,0,0
+CEN,Leadership and Administration,Citywide Indirect Costs,2417242,3294891,3362614
+CEN,Leadership and Administration,Departmental Indirect Costs,5161463,5222077,4361667
+CEN,Leadership and Administration,Divisional Indirect,557542,1858396,1807481
+CEN,Leadership and Administration,Employee Benefits,1638496,4891528,4964908
+CEN,Leadership and Administration,Indirect Cost Recovery Offset,654562,-5880822,-5880822
+CEN,McCaw Hall,Debt Service,121000,121000,121500
+CEN,McCaw Hall,McCaw Hall,5907485,5832016,3568411
+CEN,McCaw Hall Capital Reserve,McCaw Hall Asset Preservation,508018,614000,0
+CEN,Monorail Rehabilitation,Monorail Rehabilitation,442192,1255000,1255000
+CSCC,Community Safety and Communications Center,Communications Center,0,0,9783677.75
+CSCC,Community Safety and Communications Center,Parking Enforcement,0,0,8103417
+CIV,Civil Service Commissions,Civil Service Commissions,469013,526097,522731
+CPC,Office of the Community Police Commission,Office of the Community Police,1545691,1847285,1712564
+DEEL,Early Learning,Early Learning,39754056,59568095,58358374
+DEEL,K-12 Programs,K-12 Programs,22858933,33366049,33835328
+DEEL,Leadership and Administration,Citywide Indirect Costs,2300332,1757036,1992121
+DEEL,Leadership and Administration,Departmental Indirect Costs,11325,196361,0
+DEEL,Leadership and Administration,Divisional Indirect Costs,3542414,4988197,5065002
+DEEL,Post-Secondary Programs,Post-Secondary Programs,1658037,5861240,5212088
+DON,Community Building,Community Engagement Coordinators,2046467,2478682,2589516.473
+DON,Community Building,Community Liaisons,335657,868095,742399
+DON,Community Building,Community Safety,0,0,1028486
+DON,Community Building,Historic Preservation,940171,937278,800579
+DON,Community Building,Housing Affordability and Livability Agenda (HALA),0,0,1
+DON,Community Building,Major Institutions and Schools,212517,243036,166779
+DON,Community Building,Participatory Budgeting (Your Voice Your Choice),182969,136388,122673
+DON,Community Building,People's Academy for Community Engagement (PACE),133288,150942,25301
+DON,Community Building,P-Patch Community Gardening,817762,1599956,791169
+DON,Community Grants,Duwamish River Opportunity Fun,0,0,249799
+DON,Community Grants,Find It Fix It,0,0,30000
+DON,Community Grants,Healthy Food Fund,0,0,1472939
+DON,Community Grants,Neighborhood Matching,4205748,0,3224097
+DON,Leadership and Administration,Citywide Indirect Costs,1545767,1429700,2628366
+DON,Leadership and Administration,Departmental Indirect Costs,2191274,2875016,2547589
+DON,Leadership and Administration,Divisional Indirect Costs,0,0,0
+ETH,Election Vouchers,Election Vouchers,3871421,742213,8417751
+ETH,Ethics and Elections,Ethics and Elections,966253,1094680,1049986
+FAS,ADA Improvements,ADA Improvements,419637,750000,1000000
+FAS,Asset Preservation - Schedule 1 Facilities,Asset Preserv_Sch 1 Facilities,8389611,11552000,10652000
+FAS,Asset Preservation - Schedule 2 Facilities,Asset Preserv_Sch 2 Facilities,1446545,4848000,3393000
+FAS,Bond Interest and Redemption,Bond Interest and Redemption,97397847,2353798,1965571
+FAS,Capital Dev and Const Mgmt,Capital Dev and Const Mgmt,0,0,0
+FAS,Central Waterfront Improvement Program Financial Support,Central Waterfront Improvement,0,3435569,1250000
+FAS,City Finance,Business Systems,0,0,16601747
+FAS,City Finance,City Financial Management,2774276,2510444,1766245
+FAS,City Finance,Citywide Accounting Services,14953014,13294252,5726601
+FAS,City Finance,Revenue Administration,6043440,8187111,9879698
+FAS,City Finance,Risk Management Services,1723107,1942679,1844521
+FAS,City Finance,Treasury Services,4933603,5902485,5585057
+FAS,City Purchasing and Contracting Services,Contracting Services,6398929,6958773,7004594
+FAS,City Purchasing and Contracting Services,Purchasing Services,2998293,3944751,3845332
+FAS,City Services,City Services,2745115,3578182,2485743
+FAS,Debt Issuance Cost - LTGO,LTGO Debt Issuance Cost,228511,1899780,6194281
+FAS,Facilities Services,Other Facilities Services,6329655,20624598,19692445
+FAS,Facilities Services,Space Rent,72464301,60995781,67435801
+FAS,FAS Oversight-External Projects,FAS Oversight - External Proj,2182717,1092446,2500000
+FAS,FAS Project Delivery Services,FAS Project Delivery Services,13833443,3500000,3500000
+FAS,FileLocal Agency,FileLocal Agency Fund,0,435958,365395
+FAS,Fleet Capital Program,Fleet Capital Program,15069032,24052848,14500000
+FAS,Fleet Services,Motorpool,900914,893636,1065080
+FAS,Fleet Services,Vehicle Fueling,7621426,11876567,11876494
+FAS,Fleet Services,Vehicle Leasing,1316827,1466296,1265506
+FAS,Fleet Services,Vehicle Maintenance,27596805,28681133,27364577
+FAS,Garden of Remembrance,Garden of Remembrance,43869,29218,30065
+FAS,General Government Facilities - General,General Govt Facilities,7190210,5000000,180000
+FAS,Indigent Defense Services,Indigent Defense Services,9168751,9606474,9606474
+FAS,Information Technology,Information Technology,153376,1470000,8000000
+FAS,Jail Services,Jail Services,17895224,18539147,18539147
+FAS,Judgment & Claims Claims,GF Claims,7205091,1792109,1792109
+FAS,Judgment & Claims Claims,Utility Claims Reimbursable,0,1732070,1732070
+FAS,Judgment & Claims General Legal,GF General Legal,0,88321,88321
+FAS,Judgment & Claims Litigation,GF Expenses,3902988,2347863,2347863
+FAS,Judgment & Claims Litigation,GF Judgments,6156237,15089019,14439019
+FAS,Judgment & Claims Litigation,Utility Expenses Reimbursable,495689,2468932,2468932
+FAS,Judgment & Claims Litigation,Utility Judgments Reimbursable,115618,3580747,3580747
+FAS,Judgment & Claims Police Action,GF Police Action,1335261,1120918,1120918
+FAS,Leadership and Administration,Citywide Indirect Costs,9197764,8135298,7115341
+FAS,Leadership and Administration,Departmental Indirect Costs,4965869,5899470,8457006
+FAS,Leadership and Administration,Divisional Indirect Costs,5145017,6228461,6757270
+FAS,Leadership and Administration,Indirect Cost Recovery Offset,-19307796,-20263228,-22329617
+FAS,Leadership and Administration,Paid Time Off,0,0,0
+FAS,Leadership and Administration,Pooled Benefits,0,0,0
+FAS,Neighborhood Fire Stations,Neighborhood Fire Stations,3450098,3386913,3723378
+FAS,Office of Constituent Services,Office of Constituent Services,5988270,7056906,6725328
+FAS,Pike Place Mkt,Pike Place Mkt Waterfront Entr,0,0,6000000
+FAS,Public Safety Facilities Fire,Public Safety Facilities_Fire,338197,2000000,5220000
+FAS,Regulatory Compliance and Consumer Protection,RCCP - ICMS System Work,0,0,0
+FAS,Regulatory Compliance and Consumer Protection,Reg Compl & Consumr Protection,8838385,9781700,9760735
+FAS,Seattle Animal Shelter,Seattle Animal Shelter,5696914,6719249,6610002
+FAS,Seattle Public Safety Facilities Debt Service,Seattle Public Safety Facility Debt Service,0,0,0
+FAS,Transit Benefit,Employee Transit Benefits,6480381,7113000,4996000
+FAS,UTGO Debt Service,UTGO Debt Service,22768800,22761750,22764200
+FAS,Wheelchair Accessible Services,Wheelchair Accessible Svcs,865749,1627375,1099641
+FG,Appropriation to Special Funds,Appropriation to Special Funds,180211171,183761018,278524335
+FG,General Purpose,General Purpose,0,0,137110959
+FPEN,Firefighters Pension,Death Benefits,12915,19000,19000
+FPEN,Firefighters Pension,Leadership and Administration,859577,889362,926461
+FPEN,Firefighters Pension,Medical Benefits,9394014,12500000,12250000
+FPEN,Firefighters Pension,Pensions,6095315,7828000,7825000
+HSD,Addressing Homelessness,City-Managed Homelessness Programs,0,0,6445906
+HSD,Addressing Homelessness,Contract Oversight and Administration,0,0,928403.0125
+HSD,Addressing Homelessness,Homelessness Prevention and Support,17177527,25721640,0
+HSD,Addressing Homelessness,King County Regional Homelessness Authority,0,0,133594289
+HSD,Addressing Homelessness,Navigation Team,1740577,2559377,0
+HSD,Addressing Homelessness,Shelters & Housing,60359103,69288753,0
+HSD,Addressing Homelessness,Unsheltered Outreach and Response,0,0,7502009
+HSD,Leadership and Administration,Departmental Indirect Costs,11902654,12580508,12828518
+HSD,Preparing Youth for Success,Family Support,5087618,6186955,6759892
+HSD,Preparing Youth for Success,Safety,5662075,7217195,86542
+HSD,Preparing Youth for Success,Youth Development,8202884,8207827,7815347
+HSD,Promoting Healthy Aging,Care Coordination,3227611,3165991,3090627
+HSD,Promoting Healthy Aging,Case Management,27988972,34347107,36188281
+HSD,Promoting Healthy Aging,Healthy Aging,11118698,11009234,11266477.72
+HSD,Promoting Public Health,HIV Management,986759,1065966,1033313
+HSD,Promoting Public Health,Physical Health Care,10045359,10853786,12500684
+HSD,Supporting Affordability and Livability,Access to Services,3977852,4657503,4675522
+HSD,Supporting Affordability and Livability,Community Facilities,4254155,8672325,5666342
+HSD,Supporting Affordability and Livability,Emergency Preparedness and Program Administration,1936698,1181250,738823
+HSD,Supporting Affordability and Livability,Food & Nutrition,15517371,18412356,18203072
+HSD,Supporting Safe Communities,Advocacy,5986974,6304939,0
+HSD,Supporting Safe Communities,Community Safety,0,0,16600134
+HSD,Supporting Safe Communities,Gender-Based Violence Services,0,0,9979362
+HSD,Supporting Safe Communities,Prevention & Intervention,1102131,1795997,0
+HSD,Supporting Safe Communities,Safe Communities Division Administration,0,0,4291604
+HSD,Supporting Safe Communities,Support Services,3269101,2770870,0
+HSD,Supporting Safe Communities,Victim Advocacy,0,0,1280124
+HXM,Office of the Hearing Examiner,Office of the Hearing Examiner,947036,1061713,1061517
+ITD,Applications,Applications,0,0,0
+ITD,Applications,Applications Maintenance,0,0,0
+ITD,Applications,Business Applications,0,28262642,23302474
+ITD,Applications,Cross Platform Services,0,0,0
+ITD,Applications,Department Initiatives,0,49098474,55887219
+ITD,Applications,Div Indirect - App Services,0,0,0
+ITD,Applications,Platform Applications,0,18129322,17662168
+ITD,Applications,Service Modernization,0,11388399,11568526
+ITD,Applications,Shared Platforms,0,0,0
+ITD,Cable Franchise,Cable Franchise for Info Tech,0,7343268,7171058
+ITD,Cable Franchise,Cable Franchise for Library,0,0,0
+ITD,Capital Improvement Projects,Application Services CIP,13575035,13453310,11679600
+ITD,Capital Improvement Projects,Communications CIP,0,8843131,12875262
+ITD,Capital Improvement Projects,Customer Support Services CIP,0,1,0
+ITD,Capital Improvement Projects,Enterprise Compute Services CIP,0,2092069,7484983
+ITD,Capital Improvement Projects,Fiber Enterprise Initiatives CIP,0,4244846,4356485
+ITD,Capital Improvement Projects,Programmatic Initiatives CIP,6789195,2300000,0
+ITD,Capital Improvement Projects,Radio Communications CIP,1100,686981,705049
+ITD,Capital Improvement Projects,Seattle Channel CIP,202038,328130,336759
+ITD,Capital Improvement Projects,Security CIP,0,0,0
+ITD,Client Solutions,Budget for Billed Services,0,0,0
+ITD,Client Solutions,Citywide IT Initiatives,0,0,0
+ITD,Client Solutions,Client Services Management,0,0,0
+ITD,Client Solutions,Client Solutions,0,5771525,5077785
+ITD,Client Solutions,Dept Operational Projects,0,0,0
+ITD,Client Solutions,Project Services,0,0,0
+ITD,Digital Security & Risk,Digital Security & Risk,0,5299398,8448605
+ITD,Digital Security & Risk,"Security, Risk & Compliance",0,0,0
+ITD,Frontline Services and Workplace,Broadband & Community Tech,0,0,0
+ITD,Frontline Services and Workplace,Community Technology and Broadband,0,1856004,1264200
+ITD,Frontline Services and Workplace,Digital Services,0,0,0
+ITD,Frontline Services and Workplace,Digital Workplace,0,11901778,12340264
+ITD,Frontline Services and Workplace,Frontline Digital Services,0,29178874,27218103
+ITD,Frontline Services and Workplace,Open Data,0,0,0
+ITD,Frontline Services and Workplace,Privacy,0,0,0
+ITD,Frontline Services and Workplace,Seattle Channel,0,0,0
+ITD,Leadership and Administration,Business Office,8890016,0,0
+ITD,Leadership and Administration,Chief of Staff,0,12800867,0
+ITD,Leadership and Administration,Chief Privacy Office,0,647286,0
+ITD,Leadership and Administration,Citywide Indirect Costs,25856464,14125862,6850652
+ITD,Leadership and Administration,CTO / Executive Team,3954537,3761220,0
+ITD,Leadership and Administration,Departmental Indirect Costs,0,0,18306629
+ITD,Leadership and Administration,Executive Advisor,0,1763268,0
+ITD,Leadership and Administration,Pooled Benefits and PTO,709312,-180120,-28468
+ITD,Leadership and Administration,Strategy & Planning,1824825,0,0
+ITD,Technology Infrastructure,Business Advancement Team,0,200958,0
+ITD,Technology Infrastructure,Communications Infrastructure,0,9191555,7620877
+ITD,Technology Infrastructure,Customer Support Services,0,0,0
+ITD,Technology Infrastructure,Database Systems,0,2016207,2488442
+ITD,Technology Infrastructure,Div Indirect - Eng & Ops,0,0,0
+ITD,Technology Infrastructure,Engineering & Ops Maintenance,0,0,0
+ITD,Technology Infrastructure,Enterprise Computing,0,0,0
+ITD,Technology Infrastructure,Enterprise Services,0,2661847,2786474
+ITD,Technology Infrastructure,Infrastructure Tools,0,3631904,4112705
+ITD,Technology Infrastructure,Network & Communications Tech,0,0,0
+ITD,Technology Infrastructure,Network Operations,0,7971567,7295173
+ITD,Technology Infrastructure,Operations Support,0,0,0
+ITD,Technology Infrastructure,Radio Management,0,2511996,2565811
+ITD,Technology Infrastructure,Systems Engineering,0,5955058,3215297
+ITD,Technology Infrastructure,Telephone Engineering,0,5492778,6095207
+ITD,Technology Infrastructure,Windows Systems,0,8993659,7872163
+LAW,Civil,Civil,13635076,15178200,15639144
+LAW,Criminal,Criminal,7981360,8558844,8582300
+LAW,Leadership and Administration,Citywide Indirect Costs,4701313,4187796,4747947
+LAW,Leadership and Administration,Departmental Indirect Costs,2041147,2164844,2405440
+LAW,Leadership and Administration,Pooled Benefits,2974830,3274854,3368770
+LAW,Precinct Liaison,Precinct Liaison,696316,862137,701808
+LEG,Leadership and Administration,Citywide Indirect Costs,2735431,2513454,2897642
+LEG,Leadership and Administration,Departmental Indirect Costs,1052243,1264085,1798592
+LEG,Legislative Department,Central Staff,3373709,3995483,3760685
+LEG,Legislative Department,City Clerk,3703148,3924261,3821245
+LEG,Legislative Department,City Council,5770245,6121142,6163620
+MO,Office of the Mayor,Office of the Mayor,6898240,7706715,7440359
+OCR,Civil Rights,Civil Rights Enforcement,0,1672560,1782488
+OCR,Civil Rights,Leadership and Administration,2373497,2907214,1575524
+OCR,Civil Rights,Policy,639174,1245845,2355549
+OCR,Civil Rights,RSJI,606487,1229464,1284421
+OED,Business Services,Business Services,0,8992385,12005883
+OED,Leadership and Administration,Citywide Indirect Costs,736146,794810,811449
+OED,Leadership and Administration,Departmental Indirect Costs,1360805,1283929,1245439
+OED,Leadership and Administration,Pooled Benefits,583894,481413,554363
+OEO,Office of Employee Ombud,Employee Ombud Office,347119,1278671,733298
+OH,Homeownership & Sustainability,Home Ownership,916541,16492055,2657545
+OH,Homeownership & Sustainability,Home Repair,1237991,1341085,1349285
+OH,Homeownership & Sustainability,Weatherization,4896272,5963294,5997393
+OH,Leadership and Administration,Citywide Indirect Costs,1205975,1192440,1268302
+OH,Leadership and Administration,Departmental Indirect Costs,2406053,2973952,2793834
+OH,Leadership and Administration,Policy & Planning,1039545,1492710,2192892
+OH,Leadership and Administration,Pooled Benefits,58192,33862,105966
+OH,Multifamily Housing,Asset Management,2654974,3044025,3797030
+OH,Multifamily Housing,Multifamily Lending,67876699,98117416,64374058
+OIG,Office of Inspector General for Public Safety,Inspector General for Public Safety,1700050,2648238,2979486
+OIR,Office of Intergovernmental Relations,Office of Intergovernmental Relations,0,2990574,2810942
+OIRA,Office of Immigrant and Refugee Affairs,Office of Immigrant and Refuge,4374367,4379420,3864854
+OLS,Office of Labor Standards,Office of Labor Standards,4583839,6864873,7276457
+OPCD,Design Commission,Design Commission,546906,571108,593159
+OPCD,Equitable Development Initiative,Equitable Development Initiative,0,0,5564948
+OPCD,Planning and Community Development,Planning,10268767,29543063,7036531.959
+OPCD,Planning and Community Development,Planning Commission Management,515126,609037,638469
+OSE,Office of Sustainability and Environment,Office of Sustainability and Environment,0,12479394,16315126
+PPEN,Police Relief and Pension,Death Benefits,14000,18000,18000
+PPEN,Police Relief and Pension,Leadership and Administration,740372,856525,874782
+PPEN,Police Relief and Pension,Medical Benefits,8336486,15380000,15380000
+PPEN,Police Relief and Pension,Pensions,7885386,10378749,10378749
+RET,Employee Benefit Management,Employee Benefit Management,23038423,21000778,8646345
+SCL,Customer Focused - CIP,CUSTOMER AND BILLING,832166,603918,107335
+SCL,Customer Focused - CIP,CUSTOMER IT SYSTEMS,0,1957029,1829581
+SCL,Customer Focused - CIP,CUSTOMER OTHER,1324001,330095,0
+SCL,Customer Focused - CIP,LOCAL JURISDICTIONS,10885125,22288874,13313719
+SCL,Customer Focused - CIP,SERVICE CONNECTIONS,74950535,60446156,59548500
+SCL,Customer Focused - CIP,TRANSPORTATION RELOCATIONS,15023553,28487607,19762439
+SCL,Customer Service,CHIEF OF STAFF O&M,0,0,0
+SCL,Customer Service,GENERAL MANAGER ADMIN O&M,0,0,-29164
+SCL,Customer Service,GENERAL MANAGER OPS O&M,0,0,48052846
+SCL,Debt Services,DEBT SVS OPS,227424569,240913369,237513203
+SCL,Energy Innovation and Resources O&M,CES DEF O&M,0,37200449,0
+SCL,Energy Innovation and Resources O&M,ENERGY INNOVATION & RESOURCES ADMIN,0,6025556,8637245
+SCL,Energy Innovation and Resources O&M,ENERGY INNOVATION & RESOURCES O&M,0,23908928,14806568
+SCL,Environmental Affairs O&M,ENVIRO AFFAIRS ADMIN O&M,8042853,8997178,10052374
+SCL,Environmental Affairs O&M,ENVIRO AFFAIRS DEFERRED O&M,2610571,2682663,2327806
+SCL,Environmental Affairs O&M,ENVIRO AFFAIRS OPS O&M,4411618,5174051,5253589
+SCL,Financial Services - CIP,FINANCE AND IT SYSTEMS,0,0,0
+SCL,Generation Operations and Engineering O&M,GENERATION OPS & ENG ADMIN O&M,27378166,30401835,29570112
+SCL,Leadership and Administration,CITY ALLOCATIONS,0,0,64478959
+SCL,Leadership and Administration,DEPARTMENT WIDE COSTS,0,0,46093273
+SCL,Leadership and Administration,Indirect Cost Recovery,0,0,-111554271
+SCL,Leadership and Administration,Indirect Cost Recovery Offset,-9462139,0,0
+SCL,Leadership and Administration,PEOPLE AND CULTURE ADMIN O&M,0,0,-64566
+SCL,Leadership and Administration,Pooled Benefits and PTO,0,0,70535403
+SCL,Leadership and Administration - Facilities and Oversight,FACILITIES ADMIN O&M,0,10871454,0
+SCL,Leadership and Administration - Financial Services O&M,FINANCIAL SERVICES O&M,17065507,12282783,0
+SCL,Leadership and Administration - Financial Services O&M,Indirect Cost Recovery Offset,-9462139,-5944020,0
+SCL,Long Term Purchased Power,LONG TERM PURCH PWR OPS O&M,284908555,307722319,276523694
+SCL,Power Supply - CIP,BOUNDARY,38071484,0,41849396
+SCL,Power Supply - CIP,CEDAR FALLS - TOLT,3494122,0,6700201
+SCL,Power Supply - CIP,FLEETS AND FACILITIES,15820537,0,20371010
+SCL,Power Supply - CIP,POWER SUPPLY OTHER,8714597,0,2235428
+SCL,Power Supply - CIP,SKAGIT,18758562,0,21787358
+SCL,Power System Operations and Asset Management O&M,SYS OPS & ASSET MGMT ADMIN O&M,0,9217781,17374559
+SCL,Power System Operations and Asset Management O&M,SYS OPS & ASSET MGMT OPS O&M,0,24343713,24390294
+SCL,Short Term Purchased Power,SHORT TERM PURCH PWR OPS O&M,51347746,40408243,45410408
+SCL,Taxes,TAXES OPS O&M,103379486,108556535,107361424
+SCL,Transmission and Distribution - CIP,DISTRIBUTION OTHER,10353778,19617108,21412396
+SCL,Transmission and Distribution - CIP,NETWORK,41682451,27720013,26713358
+SCL,Transmission and Distribution - CIP,RADIAL,55672447,64221417,81227390
+SCL,Transmission and Distribution - CIP,SUBSTATIONS,41612146,27562663,28519766
+SCL,Transmission and Distribution - CIP,TRANSMISSION,12535078,8442628,16437304
+SCL,Transmission and Distribution O&M,TRANSMISSION & DISTRIB ADMIN O&M,0,9734848,12243452
+SCL,Transmission and Distribution O&M,TRANSMISSION & DISTRIB FLEET O&M,0,15965832,16635600
+SCL,Transmission and Distribution O&M,TRANSMISSION & DISTRIB POWER DISTRIB OPS O&M,0,73991335,70329316
+SDCI,Compliance,Compliance,7280669,8492156,9519887.827
+SDCI,Compliance,Rental Housing,1693324,2124557,2160668
+SDCI,"Government Policy, Safety & Support","Govt Policy, Safety & Support",2265666,2754259,2275989
+SDCI,Inspections,Inspections,21069562,22825122,23914754
+SDCI,Inspections,Inspections Services CBA,0,2726100,2726100
+SDCI,Land Use Services,Land Use Services,17107829,21979865,22603024
+SDCI,Land Use Services,Land Use Services CBA,0,1672241,1672241
+SDCI,Leadership and Administration,Citywide Indirect Costs,36483,22090564,23382591
+SDCI,Leadership and Administration,Departmental Indirect Costs,-12012,3813536,4068703
+SDCI,Leadership and Administration,Divisional Indirect Costs,23320,2783467,2951440
+SDCI,Leadership and Administration,Indirect Cost Recovery Offset,0,-28658332,-30402734
+SDCI,Permit Services,Permit Services,21543557,24756782,25409275
+SDCI,Permit Services,Permit Services CBA,0,3666136,3666136
+SDCI,Process Improvements & Technology,Process Improvements and Tech,4557944,5153009,5158285
+SDHR,GTL/LTD/AD&D Insurance Service,GTL/LTD/AD&D Insurance,6466162,6645783,6663381
+SDHR,Health Care Services,Health Care Services,243204812,265694580,277670290
+SDHR,HR Services,HR Investigations,0,1153007,1343833
+SDHR,HR Services,HR Service Delivery,0,0,1767510
+SDHR,HR Services,HR Shared/Admin Services,8002047,10471813,8310447
+SDHR,HR Services,HR Work Force Equity,3248641,3086917,3311497
+SDHR,HR Services,Labor Relations,2440221,2352389,2481521
+SDHR,HR Services,Recruit Retent,0,0,2335130
+SDHR,HR Services,Training/Org Effectiveness,1963731,2623253,2322377
+SDHR,Industrial Insurance Services,Industrial Insurance Services,21154126,23579900,23940991
+SDHR,Leadership and Administration,Citywide Indirect Costs,2732040,3729098,2794864
+SDHR,Leadership and Administration,Departmental Indirect Costs,2871267,3038220,4006738
+SDHR,Leadership and Administration,Divisional Indirect Costs,5341482,4302667,4900729
+SDHR,Leadership and Administration,Indirect Cost Recovery,-10316867,-11893349,-13094886
+SDHR,Leadership and Administration,Pooled Benefits,15050,2080364,2130555
+SDHR,Unemployment Services,Unemployment Services,2260814,2130000,4735984
+SDOT,Bridges & Structures,Bridge Operations,3757936,3902269,3923867
+SDOT,Bridges & Structures,Engineering & Ops Support,15513240,2285329,1589400
+SDOT,Bridges & Structures,Structures Engineering,1090555,1008015,1356154
+SDOT,Bridges & Structures,Structures Maintenance,6110525,7743404,9515991
+SDOT,Central Waterfront,Central Waterfront,0,139628075,68650059
+SDOT,First Hill Streetcar Operations,First Hill Streetcar Ops,13147245,9420748,9466145
+SDOT,General Expense,Citywide Initiatives,12430,14150000,5296014
+SDOT,General Expense,Debt Service,34159607,37900450,41890893
+SDOT,General Expense,Judgment & Claims,2590087,2590087,8098973
+SDOT,Leadership and Administration,Citywide Indirect Costs,41665546,39733357,44965979
+SDOT,Leadership and Administration,Departmental Indirect Costs,16632028,18968116,17888096
+SDOT,Leadership and Administration,Divisional Indirect Costs,13421046,12147358,11413509
+SDOT,Leadership and Administration,Indirect Cost Recovery Offset,-73429383,-69265285,-73357349
+SDOT,Leadership and Administration,Pooled Benefits and PTO,4017609,0,0
+SDOT,Maintenance Operations,Emergency Response,11697155,4840587,4704695
+SDOT,Maintenance Operations,Operations Support,5566452,4956495,5026700
+SDOT,Maintenance Operations,Pavement Management/Repair,15330146,14732700,15064086
+SDOT,Maintenance Operations,Street Cleaning,7428828,7878769,8582820
+SDOT,Maintenance Operations,Tree & Landscape Maintenance,6236258,6313717,6367138
+SDOT,Major Maintenance/Replacement,Bridges & Structures,23022477,38795436,46259735
+SDOT,Major Maintenance/Replacement,Landslide Mitigation,369671,475349,282212
+SDOT,Major Maintenance/Replacement,Roads,52112724,61154175,27249234
+SDOT,Major Maintenance/Replacement,Sidewalk Maintenance,6194151,3807479,3063723
+SDOT,Major Maintenance/Replacement,"Signs, Signals and Markings",1482013,1657420,1435737
+SDOT,Major Maintenance/Replacement,Trails and Bike Paths,1620914,1236594,1067125
+SDOT,Major Maintenance/Replacement,Urban Forestry,309342,8936,8937
+SDOT,Major Projects,Alaskan Way Viaduct,6414130,0,0
+SDOT,Major Projects,SR-520,1113690,109328,805931
+SDOT,Mobility Operations,Commuter Mobility,27614996,17875325,13861293
+SDOT,Mobility Operations,Neighborhoods,1233488,1153967,1041261
+SDOT,Mobility Operations,Parking & Curbspace,12685712,14767719,12900993
+SDOT,Mobility Operations,Signs & Markings,3663121,4191653,4232251
+SDOT,Mobility Operations,Traffic Signals,10066842,9487442,9889766
+SDOT,Mobility Operations,Transit Operations,59166887,66851338,32128132
+SDOT,Mobility Operations,Urban Planning,3655894,3393950,2979501
+SDOT,Mobility-Capital,Corridor & Intersection Imprv,25994501,40668696,43006274
+SDOT,Mobility-Capital,Freight Mobility,30406559,38752769,18110133
+SDOT,Mobility-Capital,Intelligent Transp System,4257520,3259933,7515393
+SDOT,Mobility-Capital,Neighborhood Enhancements,7191672,9415342,7991922
+SDOT,Mobility-Capital,New Trails and Bike Paths,19868876,32994949,16647527
+SDOT,Mobility-Capital,Sidewalks & Ped Facilities,28346746,36641122,31725687
+SDOT,Mobility-Capital,Transit & HOV,14547649,48824755,86152354
+SDOT,ROW Management,St Use Permit & Enforcement,31749391,40114478,42995188
+SDOT,South Lake Union Streetcar Operations,S Lake Union Streetcar Ops,5022377,4356843,4224358
+SDOT,Waterfront and Civic Projects,Waterfront and Civic Projects,0,-1,30612193
+SFD,Fire Prevention,Code Compliance,546193,553744,765973
+SFD,Fire Prevention,Fire Investigations,1363713,1462796,1637699
+SFD,Fire Prevention,Office of the Fire Marshall,1518763,1656802,1666739
+SFD,Fire Prevention,Regulating Construction,3205766,3602674,3670007
+SFD,Fire Prevention,Special Events,806389,623994,649171
+SFD,Fire Prevention,Special Hazards,2228187,2463786,2463154
+SFD,Leadership and Administration,Citywide Indirect Costs,27436838,27484410,26761601
+SFD,Leadership and Administration,Departmental Indirect Costs,12897046,13095232,14040315
+SFD,Operations,Battalion 2,24086491,28622069,32890867
+SFD,Operations,Battalion 3 Medic One,15058291,13800973,16331702
+SFD,Operations,Battalion 4,25104775,27789372,30938194
+SFD,Operations,Battalion 5,25242840,26215032,29434797
+SFD,Operations,Battalion 6,23540817,24572992,26783493
+SFD,Operations,Battalion 7,24268220,21932565,23828984
+SFD,Operations,Communications,5713791,5201055,6613774
+SFD,Operations,Office of the Operations Chief,6835098,7452309,9414190
+SFD,Operations,Operations Activities,24983583,16020864,19908444
+SFD,Operations,Safety and Risk Management,1939157,1391961,1540027
+SMC,Administration,Citywide Indirect Costs,7949533,7297934,10133393
+SMC,Administration,Departmental Indirect Costs,5904417,6201629,5986033
+SMC,Court Compliance,Court Compliance,5569069,6009503,4905269
+SMC,Court Operations,Court Operations,15785264,16797535,17352506
+SPD,Administrative Operations,Administrative Operations,43813705,39090706,28722769.25
+SPD,Chief of Police,Chief of Police,10967421,7157843,7580472
+SPD,Chief of Police,Emergency Management Operations,0,3110533,0
+SPD,Collaborative Policing,Collaborative Policing,0,13131820,12590845
+SPD,Compliance and Professional Standards Bureau,Compliance & Prof. Standards,3515592,4610702,4648249
+SPD,Criminal Investigations,Coordinated Criminal Investigations,0,6112668,6178985
+SPD,Criminal Investigations,Criminal Investigations,13892039,23419742,23423601
+SPD,Criminal Investigations,Narcotics Investigations,0,6606225,6671505
+SPD,Criminal Investigations,Special Victims,0,9157213,8329748
+SPD,Criminal Investigations,Violent Crimes,0,14399813,12876049
+SPD,East Precinct,East Precinct,27812285,0,21197913
+SPD,Leadership and Administration,Citywide Indirect Costs,0,23679789,22666661
+SPD,Leadership and Administration,Departmental Indirect Costs,60612481,30950460,33482270
+SPD,Leadership and Administration,Divisional Indirect Costs,17147595,15395858,18738939
+SPD,North Precinct,North Precinct,38058605,0,30341841
+SPD,Office of Police Accountability,Police Accountability,4205537,4693942,4824034
+SPD,Patrol Operations,Patrol Operations,7933263,10937642,10083183
+SPD,School Zone Camera Program,School Zone Camera Program,0,2131785,2131090
+SPD,South Precinct,South Precinct,21209006,0,19541679
+SPD,Southwest Precinct,Southwest Precinct,18343576,0,16410372
+SPD,Special Operations,Special Operations,60722813,57635958,45897467.58
+SPD,West Precinct,West Precinct,35943748,0,26651137
+SPL,Administrative/Support Service,Administrative Services,467809,10273835,10770314
+SPL,Administrative/Support Service,Business Office,4734547,0,-170000
+SPL,Administrative/Support Service,Event Services,496650,0,-157500
+SPL,Administrative/Support Service,FAC Services,8432821,1743000,1395000
+SPL,Capital Improvements,Capital Improvements,5223998,4768000,9237000
+SPL,Chief Librarian's Office,Chief Librarian's Office,705754,516178,493615
+SPL,Human Resources,Human Resources,2107720,2338142,2111839
+SPL,Institutional & Strategic Advancement,Institutional & Strategic Advancement,0,0,1493638
+SPL,Library Program and Services,Collections and Access,18359127,6530000,5083630
+SPL,Library Program and Services,Information Technology,5652597,1980000,1682909
+SPL,Library Program and Services,Public Services,38197617,56495799,54971550
+SPR,Building For The Future,Building For The Future - CIP,25806872,33291000,15998908
+SPR,Debt and Special Funding,Debt and Special Funding,6295734,5233000,5629975
+SPR,Departmentwide Programs,Departmentwide Other,1556295,1514086,1632370
+SPR,Departmentwide Programs,Partnerships - Departmentwide,4847484,5217525,6941534
+SPR,Departmentwide Programs,Seattle Conservation Corps,0,0,4230948
+SPR,Fix It First,Fix It First - CIP,39208347,47852449,30994547
+SPR,Golf Programs,Golf Course Programs,11662164,12309948,12380955
+SPR,Leadership and Administration,Citywide Indirect Costs,13269457,12121935,12864138
+SPR,Leadership and Administration,COVID Planning 2021,0,0,6420480
+SPR,Leadership and Administration,Departmental Indirect Costs,11043514,12257138,12285719
+SPR,Leadership and Administration,Divisional Indirect Costs,8245144,9110939,8623464
+SPR,Leadership and Administration,Indirect Cost Recovery Offset,-3742031,-3879094,-4083616
+SPR,Leadership and Administration,Pooled Benefits,3139669,2612301,3144933
+SPR,Maintaining Parks and Facilities,Maintaining Parks & Facilities,160757,338000,346680
+SPR,Parks and Facilities Maintenance and Repairs,CIP Cost Recovery Offset,0,0,-1039841
+SPR,Parks and Facilities Maintenance and Repairs,M&R Grounds Crews,22202379,0,41664200
+SPR,Parks and Facilities Maintenance and Repairs,M&R Shops Crews,11069287,0,21084080
+SPR,Parks and Facilities Maintenance and Repairs,M&R Specialty Crews,5100970,0,8098666
+SPR,Recreation Facility Programs,Aquatic & Swimming Programs,7891672,9011114,6555156
+SPR,Recreation Facility Programs,Partnerships - Recreation,929628,1158073,1076157
+SPR,Recreation Facility Programs,Rec Programs & Facility Ops,25390137,28271400,26507242
+SPR,Zoo and Aquarium Programs,Zoo and Aquarium Programs,7013295,7125936,7459216
+SPU,Combined Sewer Overflows,Combined Sewer Overflows,30181842,121148094,134109402
+SPU,Distribution,Distribution,28969564,34136663,31095001
+SPU,"Flooding, Sewer Backup & Landslide","Flooding, Sewer Backup & Lndsl",11087863,37252229,42898658
+SPU,General Expense,Budget Reserves,489644,7909526,8914284
+SPU,General Expense,Capital Purchases,56917,234175,238859
+SPU,General Expense,Debt Service,165451847,179932891,170057449
+SPU,General Expense,Major Contracts,283732444,292235325,308299579
+SPU,General Expense,Taxes and Fees,135811167,141778458,161090218
+SPU,Habitat Conservation Program,Habitat Conservation Program,645615,3488143,1474395
+SPU,Leadership and Administration,Citywide Indirect Costs,62833193,62292309,62592009
+SPU,Leadership and Administration,Departmental Indirect Costs,66173778,97268012,83286162
+SPU,Leadership and Administration,Divisional Indirect Costs,1155732,1492703,1253337
+SPU,Leadership and Administration,Indirect Cost Recovery Offset,-21918671,-20878653,-20302238
+SPU,Leadership and Administration,Paid Time Off Indirect Costs,7904884,5656400,4443206
+SPU,Leadership and Administration,Pooled Benefits Indirect Costs,4917172,6381850,8025203
+SPU,New Facilities,New Facilities,4774627,18442478,19250000
+SPU,Protection of Beneficial Uses,Protection of Beneficial Uses,5708258,22273994,21139104
+SPU,Rehabilitation,Rehabilitation,35643529,40043724,38267638
+SPU,Rehabilitation & Heavy Equipment,Rehabilitation & Heavy Eqpt,622676,8390000,1220000
+SPU,Sediments,Sediments,3252025,3481934,3867219
+SPU,Shared Cost Projects,Shared Cost Projects,24070205,81663847,69272585
+SPU,Technology,Technology,8890410,11199999,12200099
+SPU,Transmission,TRANSMISSION,2127355,15612322,20129412
+SPU,Utility Service and Operations,Customer Service,19267612,26811448,24491609
+SPU,Utility Service and Operations,Drainage System,7626695,10475721,10169240
+SPU,Utility Service and Operations,DWW Facilities & Equip,2404638,789897,1277248
+SPU,Utility Service and Operations,DWW System Operations,19117238,19777319,27281525
+SPU,Utility Service and Operations,Emergency Response,1972256,2147041,2260259
+SPU,Utility Service and Operations,Engineering,5616386,6529147,18127091
+SPU,Utility Service and Operations,Pre-Capital Planning,4261367,4191666,4392736
+SPU,Utility Service and Operations,Solid Waste Facilities & Equip,4187484,6020127,5983638
+SPU,Utility Service and Operations,Solid Waste Operations,25029858,28185069,33571626
+SPU,Utility Service and Operations,Wastewater System,10597458,13861807,12825670
+SPU,Utility Service and Operations,Water Distribution System,11444810,14252581,12860675
+SPU,Utility Service and Operations,Water Facilities & Equipment,0,3392850,2961111
+SPU,Utility Service and Operations,Water Supply & Transmssn Systm,6016740,5991810,5285926
+SPU,Utility Service and Operations,Water System Operations,19588753,18366588,29590414
+SPU,Water Quality & Treatment,Water Quality & Treatment,438484,9525000,13214127
+SPU,Water Resources,Water Resources,3007404,8464008,12031263
+SPU,Watershed Stewardship,Watershed Stewardship,516171,1289569,298356
+OEM,Office of Emergency Management,Office of Emergency Management,0,0,2483750
+SECC,Seattle Emergency Communications Center,Seattle Emergency Communications Center,0,0,0
+CEN,Leadership and Administration,CIP Indirect Costs,263402,0,0
+DEEL,Leadership and Administration,Pooled Benefits,203696,0,0
+DON,Community Building,Duwamish River Opportunity Fun,281586,249799,0
+DON,Community Building,Find It Fix It,1501,30000,0
+DON,Community Building,HALA,138306,0,0
+DON,Donations Fund,Donations Fund,4867,0,0
+FAS,BIA-LID Administration,BIA-LID Administration,25056775,0,0
+FAS,Central Waterfront Improvement Program Financial Support,Prog-Central Waterfront Improv,1547298,0,0
+FAS,FileLocal Agency,Prog-FileLocal Agency Fund,371035,0,0
+FAS,Information Technology,Summit Re-Impl Dept Cap Needs,85830,0,0
+FAS,Preliminary Engineering,Preliminary Engineering,31824,0,0
+FAS,Publ Safety Facilities Police,Publ Safety Facilities_Police,1182315,0,0
+FG,General Purpose,Reserves,38061436,0,0
+FPEN,Firefighters Pension,Long-Term Care,1364401,0,0
+HSD,Leadership and Administration,Citywide Indirect Costs,642,0,0
+HSD,Leadership and Administration,Cost Pool,-301,0,0
+HSD,Leadership and Administration,Divisional Indirect Costs,65041,0,0
+HSD,Leadership and Administration,Indirect Cost Recovery,-33473,0,0
+HSD,Leadership and Administration,Paid Time Off,-6399,0,0
+HSD,Leadership and Administration,Pooled Benefits,154,0,0
+ITD,Applications Services,Applications,28530666,0,0
+ITD,Applications Services,Applications Maintenance,1733654,0,0
+ITD,Applications Services,Cross Platform Services,6457999,0,0
+ITD,Applications Services,Div Indirect - App Cost Recov,-1741883,0,0
+ITD,Applications Services,Div Indirect - App Services,1610689,0,0
+ITD,Applications Services,Shared Platforms,18185719,0,0
+ITD,Cable Television Franchise Fund,Cable Franchise for Info Tech,9517368,0,0
+ITD,Cable Television Franchise Fund,Cable Franchise for Library,642000,0,0
+ITD,Capital Improvement Projects,Citywide IT Initiatives CIP,115070,79280,0
+ITD,Capital Improvement Projects,Enterprise Compute Svcs CIP,3530553,0,0
+ITD,Capital Improvement Projects,Tech Eng & Proj Mgmt CIP,3004416,0,0
+ITD,Capital Improvement Projects,Telecommunications CIP,1647538,0,0
+ITD,Client Services Management,Client Services Management,3406638,0,0
+ITD,Digital Engagement,Broadband & Community Tech,2280697,0,0
+ITD,Digital Engagement,Cable Communications,0,0,0
+ITD,Digital Engagement,Digital Services,3679561,0,0
+ITD,Digital Engagement,Open Data,788234,0,0
+ITD,Digital Engagement,Privacy,813939,0,0
+ITD,Digital Engagement,Seattle Channel,2933037,0,0
+ITD,Engineering and Operations,Customer Support Services,24761747,0,0
+ITD,Engineering and Operations,Div Indirect - E&O Cost Recov,-6139377,0,0
+ITD,Engineering and Operations,Div Indirect - Eng & Ops,6332624,0,0
+ITD,Engineering and Operations,Engineering & Ops Maintenance,1485622,0,0
+ITD,Engineering and Operations,Enterprise Computing,20519280,0,0
+ITD,Engineering and Operations,Network & Communications Tech,21590553,0,0
+ITD,Engineering and Operations,Operations Support,7090107,0,0
+ITD,IT Initiatives,Budget for Billed Services,3068586,0,0
+ITD,IT Initiatives,Citywide IT Initiatives,1639642,0,0
+ITD,IT Initiatives,Dept Operational Projects,21997418,0,0
+ITD,IT Initiatives,Project Services,5448361,0,0
+ITD,Leadership and Administration,Indirect Cost Recovery Offset,-4433751,0,0
+ITD,"Security, Risk & Compliance","Security, Risk & Compliance",5385644,0,0
+OCR,Civil Rights,Civil Rights,1304805,0,0
+OED,Business Services,Business Services Budget Progr,9577962,0,0
+OIR,Office of Intergovernmental Relations,Office of Intergovernmental Re,2831077,0,0
+OLS,Office of Labor Standards,Business Outreach & Ed,96831,0,0
+OLS,Office of Labor Standards,Community Outreach & Ed,1327761,0,0
+OSE,Office of Sustainability and Environment,Office of Sustainability and E,10163301,0,0
+PPEN,Police Relief and Pension,Long-Term Care,5363172,0,0
+RET,UNASSIGNED,Pension Benefits Paid,218601831,0,0
+SCL,Customer Service,CUST COMM REG ADMIN O&M,7404497,0,0
+SCL,Customer Service,CUST COMM REG OPS O&M,69877282,0,0
+SCL,Customer Service,CUST COMM REG SECRTY G&A O&M,1033240,0,0
+SCL,Energy Innovation and Resources O&M,PWR MGT & STRATEGIC PLAN O&M,12207157,0,0
+SCL,Leadership and Administration,ADMIN SVS ADMIN O&M,21116800,0,0
+SCL,Leadership and Administration - General Expense,CITY ALLOCATIONS,62278290,58069530,0
+SCL,Leadership and Administration - General Expense,DEPARTMENT WIDE COSTS,8484751,21988427,0
+SCL,Leadership and Administration - General Expense,Indirect Cost Recovery,-110374186,-28689313,0
+SCL,Leadership and Administration - General Expense,Pooled Benefits and PTO,72757812,3409482,0
+SCL,Power System Operations and Asset Management O&M,ENG & TECH INNOVTN ADMIN O&M,8533648,0,0
+SCL,Power System Operations and Asset Management O&M,ENG AND TECH INNOVTN OPS O&M,13498926,0,0
+SCL,Transmission and Distribution O&M,TRANSMISSION & DIST ADMIN O&M,6671245,0,0
+SCL,Transmission and Distribution O&M,XSMN & DIST FLEET 330 O&M,7819348,0,0
+SCL,Transmission and Distribution O&M,XSMN & DIST PWR DIST OPS O&M,59656264,0,0
+SDHR,HR Services,HR Service Delivery,1891121,0,0
+SDHR,HR Services,Recruit Retent,2136362,0,0
+SDOT,Central Waterfront,Alaskan Way Viaduct,21184333,0,0
+SDOT,Major Projects,Mercer West,304967,0,0
+SDOT,Major Projects,First Hill Streetcar,6339,0,0
+SDOT,Mobility-Capital,Corridor & Intersection Impr,402110,0,0
+SFD,Leadership and Administration,Pooled Benefits,6780,0,0
+SPD,Narcotics Investigations,Narcotics Investigations,6070504,0,0
+SPD,Special Fund Projects,Special Fund Projects,766419,0,0
+SPD,Special Investigations,Special Investigations,9934310,0,0
+SPD,Special Victims,Special Victims,8021775,0,0
+SPD,Violent Crimes,Violent Crimes,9798857,0,0
+SPL,Institutional & Strategic Advancement,Institutional & Strategic Adva,1982438,0,0
+SPL,Leadership and Administration,Citywide Indirect Costs,0,0,0
+SPL,Levy Operating Fund Transfer,Levy Operating Fund Transfer,4973000,0,0
+SPR,2008 Parks Levy,08 Levy Cultural Facilities,1916574,0,0
+SPR,2008 Parks Levy,08 Levy Opportunity Fund,612831,0,0
+SPR,2008 Parks Levy,08 Levy Major Parks,380,0,0
+SPR,2008 Parks Levy,08 Levy Neighborhood Park Acq,169541,0,0
+SPR,2008 Parks Levy,08 Levy Parks and Playgrounds,1956765,0,0
+SPR,2008 Parks Levy,08 Levy P-Patch Development,238,0,0
+SPR,Parks and Open Space,Citywide Programs,1999912,2036388,0
+SPR,Parks and Open Space,M&R - Parks & Open Space,21748162,24141389,0
+SPR,Recreation Facility Programs,M&R - Recreation Facilities,4732748,4644157,0
+SPR,Seattle Conservation Corps,Seattle Conservation Corps,3882891,4139623,0
+SPR,SR520 Mitigation,SR520 Mitigation,4990289,0,0
+SPU,Utility Service and Operations,Water Facilities & Equip,3294991,0,0
+DON,Community Building,Healthy Food Fund,0,2500000,0
+SPD,Patrol Operations,East Precinct,0,25378458,0
+SPD,Patrol Operations,North Precinct,0,36378872,0
+SPD,Patrol Operations,South Precinct,0,23730239,0
+SPD,Patrol Operations,Southwest Precinct,0,19823685,0
+SPD,Patrol Operations,West Precinct,0,31577797,0
