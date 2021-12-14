@@ -1,2 +1,2 @@
 # data-seattle-gov
-Seattle Public Datasets 
+Seattle Public Datasets from https://data.seattle.gov
